@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Fizzy for Gmail">
+  <rect width="128" height="128" rx="28" fill="#111111"/>
+  <!-- three kanban columns -->
+  <rect x="22" y="28" width="22" height="30" rx="5" fill="#ffffff"/>
+  <rect x="22" y="64" width="22" height="22" rx="5" fill="#ffffff" opacity="0.55"/>
+  <rect x="53" y="28" width="22" height="22" rx="5" fill="#ffffff"/>
+  <rect x="53" y="56" width="22" height="30" rx="5" fill="#ffffff" opacity="0.55"/>
+  <rect x="84" y="28" width="22" height="40" rx="5" fill="#ffffff"/>
+  <!-- little envelope flap hint -->
+  <path d="M22 100 L64 112 L106 100" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
